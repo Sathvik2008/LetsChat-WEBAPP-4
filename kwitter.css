@@ -1,0 +1,18 @@
+body{
+    text-align: center;
+}
+#login-title{
+    color: red;
+    font-size: 60px;
+    font-style: bold;
+}
+#user_name{
+    font-size: 30px
+}
+#login_button{
+    background-color:lightgreen;
+    width: 50%;
+    font-size: 60px;
+    border: none;
+    color: black;
+}
